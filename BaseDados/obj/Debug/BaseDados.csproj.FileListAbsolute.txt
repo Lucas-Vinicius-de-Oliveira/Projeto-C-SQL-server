@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.Form1.resources
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.Properties.Resources.resources
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.GenerateResource.cache
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\bin\Debug\BaseDados.exe.config
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\bin\Debug\BaseDados.exe
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\bin\Debug\BaseDados.pdb
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\bin\Debug\PT\System.Data.SqlServerCe.resources.dll
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.csproj.CopyComplete
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.exe
+C:\Users\lucas\Desktop\C# Completo e Profissional - Gabriel Artigas Pierri\23. Trabalhar com bases de dados (amanha ou prox estudo0\BaseDados\BaseDados\obj\Debug\BaseDados.pdb
